@@ -1,11 +1,16 @@
 _repo: The-Initiates-of-the-Flame_55687
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55687-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, Manly Palmer
     gutenberg_agent_id: '48452'
     url: http://www.gutenberg.org/2009/agents/48452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55687#The-Initiates-of-the-Flame
 gutenberg_issued: '2017-10-06'
 gutenberg_type: Text
 identifiers:
